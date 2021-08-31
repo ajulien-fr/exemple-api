@@ -1,0 +1,29 @@
+@import "~bootstrap/scss/bootstrap";
+
+$body-bg: #264653;
+$body-color: #fafafa;
+$navbar-bg: #e76f51;
+$navbar-color: #fafafa;
+$card-color: #212529;
+
+body {
+    background: $body-bg;
+    color: $body-color;
+}
+
+.navbar {
+    background: $navbar-bg;
+}
+
+.navbar div .navbar-nav a.nav-link {
+    color: $navbar-color;
+}
+
+.card {
+    color: $card-color;
+}
+
+.accordion .btn-link {
+    color: $navbar-bg;
+    font-size: 20px;
+}
