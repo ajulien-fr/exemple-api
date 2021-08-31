@@ -1,5 +1,7 @@
 # exemple-api
 
+L'OS utilisé ici est GNU/Linux et la distrib une Debian.
+
 ```sh
 git clone https://github.com/ajulien-fr/exemple-api.git
 ```
@@ -21,7 +23,7 @@ Vous pouvez aussi modifier le nom de l'utilisateur "admin" dans le fichier \
 Installation et configuration de **mysql-server** :
 
 ```sh
-sudo apt install mysql-server && \
+sudo apt install default-mysql-server && \
 sudo mysql_secure_installation
 ```
 
@@ -105,4 +107,3 @@ Démarrage de nodejs, toujours dans le dossier **apiclient** :
 ```sh
 npm start
 ```
-
