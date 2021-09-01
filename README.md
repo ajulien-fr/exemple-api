@@ -1,9 +1,15 @@
 # exemple-api
 
-vidéo de démo : https://github.com/ajulien-fr/exemple-api/raw/main/demo.mkv
+vidéo de démo ou d'utilisation : https://github.com/ajulien-fr/exemple-api/raw/main/demo.webm \
+screenshots : https://github.com/ajulien-fr/exemple-api/raw/main/screenshots/
 
-Ce projet à été créé dans le but d'apprendre ou d'approfondir mes connaissances en PHP Symfony pour le coté REST API du projet, le serveur. \
+Ce projet à été créé dans le but d'apprendre ou d'approfondir mes connaissances en PHP Symfony pour le coté REST API du projet, le serveur, le backend. \
 Et en ReactJS pour le coté client / frontend du projet.
+
+Dans une association de type **SPA** ou **École du Chat**, on trouve des **subventions** données par une **institution**, par exemple une **mairie**,
+des **donations** données par un **individu**, des **adoptions**, des **soins** donné par un **vétérinaire**, etc. \
+J'ai choisi de laisser l'asso définir elle même ses **actions** et ses **intervenants**. \
+C'est donc à l'asso de rester cohérent dans les noms de ses **actions**, de ses **intervenants**, de ses **animaux** et de ses enregistrements.
 
 L'OS utilisé ici est GNU/Linux et la distrib une Debian.
 
