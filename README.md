@@ -1,5 +1,10 @@
 # exemple-api
 
+vidéo de démo : https://github.com/ajulien-fr/exemple-api/raw/main/demo.mkv
+
+Ce projet à été créé dans le but d'apprendre ou d'approfondir mes connaissances en PHP Symfony pour le coté REST API du projet, le serveur. \
+Et en ReactJS pour le coté client / frontend du projet.
+
 L'OS utilisé ici est GNU/Linux et la distrib une Debian.
 
 ```sh
