@@ -1,7 +1,5 @@
 # exemple-api
 
-[![IMAGE ALT TEXT](https://github.com/ajulien-fr/exemple-api/raw/main/demo.webm)](https://github.com/ajulien-fr/exemple-api/raw/main/demo.webm "démo")
-
 vidéo de démo ou d'utilisation : https://github.com/ajulien-fr/exemple-api/raw/main/demo.webm \
 screenshots : https://github.com/ajulien-fr/exemple-api/raw/main/screenshots/
 
